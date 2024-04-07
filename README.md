@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Currently working on NodeJS, React, Deno, ElectronJS
+Currently working on AWS, NodeJS, React, SQL
 
 # 💻 Tech Stack:
 
